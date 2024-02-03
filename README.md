@@ -31,6 +31,6 @@ This is a simple calculator application implemented in Java using Swing for the 
 
 ## Author
 
-- [Isuru D Rajamanthri]
+- [Isuru D Rajamanthri](#Isuru-27)
 
 
